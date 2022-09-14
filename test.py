@@ -2,5 +2,5 @@
 
 print(3+4)
 
-print("CS crew awesome")
+print("CS crew awesomer")
 
